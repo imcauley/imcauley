@@ -1,5 +1,5 @@
 # Isaac McAuely
-Hi, my name is Isaac McAuley. I'm a software developer in Calgary, Alberta.
+Hi, my name is Isaac McAuley. I'm a software developer in Canada.
 
 # Links
 [Email](mailto:me@imcauley.com)
